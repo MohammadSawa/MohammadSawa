@@ -11,7 +11,7 @@
 
 - 🏢 I'm a SDE intern @Atypon | ex-SDE intern @Amazon
 - 👨‍💻 I'm Trying to be a Better SDE.
-- ⚡ Fun Fact: I love rice.
+
 
 ### Connect with Me :
 
